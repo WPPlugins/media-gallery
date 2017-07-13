@@ -1,0 +1,67 @@
+# image-gallery.php
+msgid "Galleries"
+msgstr "Galerien"
+
+# image-gallery.php
+msgid "Gallery"
+msgstr "Galerie"
+
+# image-gallery.php
+msgid "Search Galleries"
+msgstr "Galerien durchsuchen"
+
+# image-gallery.php
+msgid "All Galleries"
+msgstr "Alle Galerien"
+
+# image-gallery.php
+msgid "Parent Gallery"
+msgstr "Eltern Galerie"
+
+# image-gallery.php
+msgid "Parent Gallery:"
+msgstr "Eltern Galerie:"
+
+# image-gallery.php
+msgid "Edit Gallery"
+msgstr "Galerie bearbeiten"
+
+# image-gallery.php
+msgid "Update Gallery"
+msgstr "Galerie aktualisieren"
+
+# image-gallery.php
+msgid "Add New Gallery"
+msgstr "Neue Galerie hinzufügen"
+
+# image-gallery.php
+msgid "New Gallery Name"
+msgstr "Neue Galerie Name"
+
+# tinymce/window.php
+msgid "Image Gallery"
+msgstr "Bildergalerie"
+
+# tinymce/window.php
+msgid "Images per page"
+msgstr "Bilder pro Seite"
+
+# tinymce/window.php
+msgid "Number of columns"
+msgstr "Anzahl Spalten"
+
+# tinymce/window.php
+msgid "Crop Images"
+msgstr "Bilder zurechtschneiden"
+
+# tinymce/window.php
+msgid "Activating cropping will resize & crop images to the smallest image widths and heights"
+msgstr "Wenn die Zurechtschneidungs Option aktiviert ist, werden die Bilder auf die kleinste Breite und Höhe skaliert und geschnitten"
+
+# tinymce/window.php
+msgid "Cancel"
+msgstr "Abbrechen"
+
+# tinymce/window.php
+msgid "Insert"
+msgstr "Einfügen"

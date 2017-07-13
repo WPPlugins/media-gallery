@@ -1,0 +1,73 @@
+# Image Gallery POT file.
+# Copyright (C) 2017 Kolja Schleich
+# This file is distributed under the same license as the WordPress package.
+# Creation Date: 2017-05-25 21:15:14
+
+#media-gallery.php: 112
+msgid "Galleries"
+msgstr ""
+
+#media-gallery.php: 113
+msgid "Gallery"
+msgstr ""
+
+#media-gallery.php: 114
+msgid "Search Galleries"
+msgstr ""
+
+#media-gallery.php: 115
+msgid "All Galleries"
+msgstr ""
+
+#media-gallery.php: 116
+msgid "Parent Gallery"
+msgstr ""
+
+#media-gallery.php: 117
+msgid "Parent Gallery:"
+msgstr ""
+
+#media-gallery.php: 118
+msgid "Edit Gallery"
+msgstr ""
+
+#media-gallery.php: 119
+msgid "Update Gallery"
+msgstr ""
+
+#media-gallery.php: 120
+msgid "Add New Gallery"
+msgstr ""
+
+#media-gallery.php: 121
+msgid "New Gallery Name"
+msgstr ""
+
+#tinymce/window.php: 8
+msgid "Image Gallery"
+msgstr ""
+
+#tinymce/window.php: 40
+msgid "Images per page"
+msgstr ""
+
+#tinymce/window.php: 44
+msgid "Number of columns"
+msgstr ""
+
+#tinymce/window.php: 48
+msgid "Crop Images"
+msgstr ""
+
+#tinymce/window.php: 52
+msgid "Activating cropping will resize & crop images to the smallest image widths and heights"
+msgstr ""
+
+#tinymce/window.php: 60
+msgid "Cancel"
+msgstr ""
+
+#tinymce/window.php: 64
+msgid "Insert"
+msgstr ""
+
